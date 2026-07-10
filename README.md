@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0136-single-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Dynamic Programming
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
