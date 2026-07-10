@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph Theory
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -116,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
