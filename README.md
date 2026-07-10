@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1137-n-th-tribonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1716-calculate-money-in-leetcode-bank) |
 ## Recursion
 |  |
 | ------- |
