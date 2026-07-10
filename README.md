@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Depth-First Search
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Matrix
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
