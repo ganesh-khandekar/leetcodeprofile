@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0273-integer-to-english-words) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 ## Sliding Window
 |  |
 | ------- |
