@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0096-unique-binary-search-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Depth-First Search
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -98,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0052-n-queens-ii) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
