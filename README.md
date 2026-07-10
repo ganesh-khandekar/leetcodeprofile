@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0051-n-queens) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Dynamic Programming
 |  |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0035-search-insert-position) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
