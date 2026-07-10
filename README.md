@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0119-pascals-triangle-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Dynamic Programming
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0119-pascals-triangle-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Depth-First Search
 |  |
