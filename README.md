@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0202-happy-number) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Linked List
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0171-excel-sheet-column-number) |
 | [0273-integer-to-english-words](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0273-integer-to-english-words) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0342-power-of-four) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
