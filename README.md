@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0171-excel-sheet-column-number) |
 | [0273-integer-to-english-words](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0273-integer-to-english-words) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0342-power-of-four) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1025-divisor-game) |
+## Simulation
+|  |
+| ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 <!---LeetCode Topics End-->
