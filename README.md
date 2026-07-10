@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0136-single-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -164,4 +166,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0144-binary-tree-preorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
