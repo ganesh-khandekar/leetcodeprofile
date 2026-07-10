@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1925-count-square-sum-triples) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0342-power-of-four) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Rolling Hash
 |  |
 | ------- |
