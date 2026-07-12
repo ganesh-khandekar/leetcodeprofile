@@ -1,5 +1,7 @@
 class Solution {
     public boolean isValid(String s) {
+         if (s.length() % 2 == 1)
+            return false;
          Stack<Character> Parentheses =new Stack<>();
             
         for(char ch :s.toCharArray()){
