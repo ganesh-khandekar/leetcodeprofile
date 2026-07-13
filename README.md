@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0342-power-of-four) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0191-number-of-1-bits) |
 | [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
