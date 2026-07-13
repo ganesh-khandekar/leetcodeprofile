@@ -7,7 +7,6 @@ class Solution {
             }
             n=n>>1;
             res=res<<1;
-            System.out.println(i+"res "+res+" n "+n);
         }
         return res;
     }
