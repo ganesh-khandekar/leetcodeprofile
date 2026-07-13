@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1137-n-th-tribonacci-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0342-power-of-four) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
