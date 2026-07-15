@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1925-count-square-sum-triples) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0739-daily-temperatures) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
