@@ -1,6 +1,6 @@
 class Solution {
-    List<String> res =new ArrayList<>();
-    int stack=0;
+    private List<String> res =new ArrayList<>();
+    private int stack=0;
     void travel(int n,String s,int num){
         if(num<0||num>stack||n<0){
             return;
