@@ -1,5 +1,5 @@
 class Solution {
-    List<List<Integer>> res =new ArrayList<>();
+    private List<List<Integer>> res =new ArrayList<>();
     void travel(int[] nums ,List<Integer> arr,int k){
         if(arr.size()==nums.length){
             res.add(new ArrayList(arr));
