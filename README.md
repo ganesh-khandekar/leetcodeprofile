@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0118-pascals-triangle) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0052-n-queens-ii) |
 ## Tree
