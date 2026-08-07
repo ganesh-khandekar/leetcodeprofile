@@ -11,7 +11,7 @@ public:
                 {
                  num.push_back(i);
                  num.push_back(j);
-                 break;
+                 return num;
                 }
             }
         }
