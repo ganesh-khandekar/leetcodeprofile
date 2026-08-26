@@ -1,13 +1,9 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-        if(nums.length==1){
-            return;
-        }
+        if(nums.length==1)return;
         int max =nums.length-1,j,i;
         j=max;
         i=max;
-        boolean flag=false;
-        System.out.println(nums[max]<=nums[max-1]);
 
         while(max>0 && nums[max]<=nums[max-1]){
             max--;
@@ -23,7 +19,6 @@ class Solution {
         }
         i= max+ 1;
        
-        System.out.println(!flag);
         while(i<j ){
             int temp = nums[i];
             nums[i] =nums[j];
