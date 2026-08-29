@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0136-single-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0739-daily-temperatures](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0222-count-complete-tree-nodes) |
+| [0875-koko-eating-bananas](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0875-koko-eating-bananas) |
 ## Backtracking
 |  |
 | ------- |
