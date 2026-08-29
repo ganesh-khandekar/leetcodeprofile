@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0217-contains-duplicate) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0739-daily-temperatures](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0875-koko-eating-bananas) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0217-contains-duplicate) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Linked List
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0217-contains-duplicate) |
 | [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
