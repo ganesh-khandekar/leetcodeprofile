@@ -4,9 +4,8 @@ class Solution {
             return false;
         }
         HashSet<Integer> flag = new HashSet<>();
-        flag.add(nums[0]);
 
-        for(int i=1; i<nums.length;i++){
+        for(int i=0; i<nums.length;i++){
             if(!flag.contains(nums[i])){
                 flag.add(nums[i]);
             }else{
