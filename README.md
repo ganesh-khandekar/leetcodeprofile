@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0217-contains-duplicate) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0739-daily-temperatures](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0739-daily-temperatures) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0222-count-complete-tree-nodes) |
 | [0875-koko-eating-bananas](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0875-koko-eating-bananas) |
 ## Backtracking
