@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0118-pascals-triangle) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0242-valid-anagram) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0171-excel-sheet-column-number) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0242-valid-anagram) |
 | [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
