@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
 | ------- |
