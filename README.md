@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1137-n-th-tribonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1903-largest-odd-number-in-string](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1925-count-square-sum-triples) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0344-reverse-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1903-largest-odd-number-in-string](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1903-largest-odd-number-in-string) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 ## Sliding Window
 |  |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
