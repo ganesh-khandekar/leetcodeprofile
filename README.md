@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1025-divisor-game) |
