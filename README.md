@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0238-product-of-array-except-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0347-top-k-frequent-elements) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Linked List
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -240,14 +243,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0973-k-closest-points-to-origin) |
 ## Brainteaser
 |  |
@@ -290,4 +296,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/1903-largest-odd-number-in-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ganesh-khandekar/leetcodeprofile/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
